@@ -144,8 +144,10 @@ public class Principal {
                     }
 
                     break;
+                case 7:
+                    break;
                 default:
-                    System.out.println("Andá a la cancha bobo");
+                    System.out.println("Opcion invalida");
             }
         } while (op != 7);
 
